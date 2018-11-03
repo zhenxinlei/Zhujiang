@@ -1,4 +1,4 @@
 # Zhujiang
 Quantitative Research
-  RiceQuant
-  Quantopian
+- RiceQuant
+- Quantopian
